@@ -303,7 +303,7 @@ body {
 #social-icons{
 
   left: 3%;
-  bottom: 0%;
+  bottom: 5%;
 }
 
 .btn {
@@ -343,7 +343,7 @@ flex-direction: column;
 }
 #Dev{
  position: absolute;
- top: 45% ;
+ top: 50% ;
  font-size:12px;
 
 }
