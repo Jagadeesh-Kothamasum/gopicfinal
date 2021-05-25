@@ -301,28 +301,26 @@ body {
 
 
 #social-icons{
-  position: absolute;
-  bottom : 5vh;
+
   left: 3%;
+  bottom: 0%;
 }
 
 .btn {
 width: 30px;
 height: 30px;
+padding: 4px;
 margin: 10px;
-  font-size: 50px;
 color: #df5b5c;
-overflow: hidden;
-position: relative;
 border-radius: 30%;
 background: #f1f1f1;
-text-decoration: none;
 box-shadow: 0 5px 15px -5px #00000070;
 display: flex;
 flex-direction: column;
-align-items: center;
-justify-content: center;
+
 }
+
+
 
 
 
@@ -333,7 +331,7 @@ justify-content: center;
 
 #developer{
   left:50%;
- bottom:-3vh;
+  bottom:0;
   width: 80%;
   padding-top: 15px;
  
@@ -345,12 +343,12 @@ justify-content: center;
 }
 #Dev{
  position: absolute;
- top: 35% ;
+ top: 45% ;
  font-size:12px;
 
 }
 .My-Name{
-top:55%;
+top:60%;
 position: absolute;
 font-size: 15px;
 }
