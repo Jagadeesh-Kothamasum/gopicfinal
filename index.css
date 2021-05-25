@@ -243,7 +243,7 @@ body {
     float: left;
     position: relative;
     top: 9%;
-    height 75px;
+    height :75px;
     width: 75px;
 }
 #Dev{
@@ -333,23 +333,26 @@ justify-content: center;
 
 
 #developer{
-  left:20%;
+  left:30%;
   top:80%;
   width: 80%;
  
 }
 #img-me{
-
+  margin-top: 10px;
+  height :40px;
+  width: 40px;
 }
 #Dev{
  position: absolute;
- top: 35% 
+ top: 35% ;
+ font-size:12px;
 
 }
 .My-Name{
-top:60%;
+top:55%;
 position: absolute;
-font-size: 25px;
+font-size: 15px;
 }
 
 }
