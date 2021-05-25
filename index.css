@@ -302,8 +302,7 @@ body {
 
 #social-icons{
   position: absolute;
-  top:75vh;
-
+  bottom : 5vh;
   left: 3%;
 }
 
@@ -334,7 +333,7 @@ justify-content: center;
 
 #developer{
   left:30%;
-  top:80%;
+ bottom:0;
   width: 80%;
  
 }
