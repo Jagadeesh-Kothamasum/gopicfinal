@@ -264,8 +264,92 @@ body {
 }
 
 
+@media screen and (max-width: 600px) {
+
+  
+
+
+  #brand-name{
+    text-decoration: none;
+    font-size: 160%;
+    color: ghostwhite;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    top: 8px;
+    float: left;
+}
+
+.logo{
+    width: 65px;
+    height: 65px;
+    background-color: transparent;
+    position: relative;
+    top: 0px;
+    left: 8px;
+    float: left;
+}
+#brand-details{
+    position: absolute;
+    top: 3%;
+    left: 1%;
+}
 
 
 
 
 
+
+
+#social-icons{
+  position: absolute;
+  top:85vh;
+
+  left: 3%;
+}
+
+.btn {
+width: 30px;
+height: 30px;
+margin: 10px;
+  font-size: 50px;
+color: #df5b5c;
+overflow: hidden;
+position: relative;
+border-radius: 30%;
+background: #f1f1f1;
+text-decoration: none;
+box-shadow: 0 5px 15px -5px #00000070;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+#developer{
+  left:30%;
+  top:85%;
+  width: 80%;
+ 
+}
+#img-me{
+
+}
+#Dev{
+ position: absolute;
+ top: 35% 
+
+}
+.My-Name{
+top:60%;
+position: absolute;
+font-size: 25px;
+}
+
+}
